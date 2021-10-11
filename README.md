@@ -1,6 +1,6 @@
 # Bridge_EC-GAN
 
-# Citation
+## Citation
 @article{Haque_2021, 
       title={EC-GAN: Low-Sample Classification using Semi-Supervised Algorithms and GANs}, 
       volume={35}, 
